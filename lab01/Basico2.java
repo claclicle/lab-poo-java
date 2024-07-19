@@ -12,7 +12,6 @@ public class Basico2 {
 
         byte numeroByte1 = -128;
         byte numeroByte2 = 127;
-        // byte numeroByte3 = 128; //ERRO
         byte numeroByte4 = Byte.MIN_VALUE;
         byte numeroByte5 = Byte.MAX_VALUE;
 
